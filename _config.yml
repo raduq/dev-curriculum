@@ -12,7 +12,7 @@ gravatar: 8d50a5a66c0d6de91c7110767ce78b9b
 email: raduq00@gmail.com
 twitter: raduq
 github: raduq
-googleplus: +114884638031485474052
+googleplus: +raduq
 facebook: raduq00 
 linkedin: raduq/en
 bio: "TODO"
@@ -31,75 +31,75 @@ bio: "TODO"
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 4
+    level: 3
   - name: CSS 3
-    level: 4
+    level: 3
   - name: JavaScript
     level: 4
   - name: jQuery
-    level: 4
+    level: 3
   - name: Angular
     level: 4
   - name: Vue.js
-    level: 2
+    level: 
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
-    level: 5
+    level: 3
   - name: LESS
-    level: 3
+    level: 
   - name: SASS
-    level: 3
+    level: 
   - name: Stylus
-    level: 4
+    level: 
   - name: Gulp
-    level: 4
+    level: 3
   - name: Grunt
-    level: 3
+    level: 4
   - name: Bower
-    level: 3
+    level: 4
 
 back-end:
   - name: PHP
-    level: 5
+    level: 
   - name: Node.js
     level: 3
   - name: Ruby
-    level: 2
+    level: 1
   - name: Python
-    level: 2
+    level: 1
   - name: Java
-    level: 4
+    level: 5
   - name: COBOL
-    level: 2
+    level: 
   - name: SQL
     level: 4
   - name: Lua
-    level: 2
+    level: 
 
 mobile:
   - name: Android
     level: 2
   - name: Apache Cordova
-    level: 4
+    level: 
   - name: Ionic
-    level: 4
+    level: 
   - name: NativeScript
-    level: 3
+    level: 
 
 db:
   - name: MySQL
-    level: 4
+    level: 2
   - name: PostgreSQL
     level: 3
   - name: MongoDB
     level: 4
   - name: SQL Server
-    level: 2
+    level: 3
   - name: Oracle
     level: 3
   - name: Firebase
-    level: 3
+    level: 2
   - name: NoSQL
     level: 4
 
@@ -107,13 +107,13 @@ devops:
   - name: Docker
     level: 3
   - name: Vagrant
-    level: 3
+    level: 2
   - name: Jenkins
-    level: 1
+    level: 3
   - name: Git
     level: 5
   - name: Apache Maven
-    level: 3
+    level: 5
   - name: Continuous Integration
     level: 3
   - name: Continuous Delivery
@@ -125,7 +125,7 @@ methodologies:
   - name: Scrum
     level: 4
   - name: RUP
-    level: 3
+    level: 
 
 others:
   - name: Web Services
@@ -133,25 +133,25 @@ others:
   - name: REST
     level: 5
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
+    level: 4
   - name: iReport, Jasper Reports
     level: 2
   - name: Hibernate
     level: 3
   - name: Grails
-    level: 2
+    level: 1
   - name: Symfony
-    level: 3
+    level: 
   - name: Twig
-    level: 4
+    level: 
   - name: Doctrine ORM
-    level: 3
+    level: 
   - name: Laravel, Blade, Eloquent ORM
-    level: 5
+    level: 
   - name: Ruby on Rails
-    level: 3
+    level: 1
   - name: MEAN Stack
-    level: 4
+    level: 
   - name: Spring
     level: 3
 
