@@ -6,23 +6,16 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Raduan S. Santos
 author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+gravatar: 8d50a5a66c0d6de91c7110767ce78b9b
+email: raduq00@gmail.com
+twitter: raduq
+github: raduq
+googleplus: +Raduq
+facebook: raduq00 
+linkedin: raduq/en
+bio: "TODO"
 
 # Skills
 #
